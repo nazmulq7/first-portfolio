@@ -3,9 +3,35 @@ body{
     font-weight: 400;
     font-style: normal;
     line-height: 20px;
+    margin: 0%;
+    padding: 0%;
 
 }
 
+h1{
+    font-size: 45px;
+}
 .highlight{
     color:orange;
+}
+
+.first{
+    line-height: 30px;
+}
+.lalf-width{
+    width: 40%;
+    float: left;
+    margin: 4%;
+    padding: 1%;
+}
+.lalf-width img{
+    width: 70%;
+}
+section{
+    height: 400px;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    border: 1px solid red;
 }
